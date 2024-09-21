@@ -5,11 +5,11 @@
 -->
 <div align="center">
   <h2 align="center">Hi there <img width="25" src="https://user-images.githubusercontent.com/52720489/204301028-338c8fd7-8a9c-490f-8007-4c302c5aa0c6.gif"> I am Sai Vivek Vangaveti</h2>
-  <h4 align="center">Full-stack software developer and tech enthusiast</h4>
+  <h4 align="center">Full-Stack Developer</h4>
 </div>
 
 - 👀 I'm interested in web technologies and cloud-native application development 
-- 🌱 I'm currently woking with Javascript, Java and Python and other web technologies.
+- 🌱 I'm currently working with Reactjs, Java, Python and other web technologies.
 - 💞️ I'm looking to collaborate on your web development project.
 - 📫 How to reach me - you can reach me via LinkedIn if you have any further questions or want to collaborate on a web development project. I'm happy to help! [linkedin.com/in/vsaivivek](https://www.linkedin.com/in/vsaivivek/)
 

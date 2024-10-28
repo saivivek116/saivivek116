@@ -68,7 +68,7 @@
         <img width="390" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=saivivek116&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
       </td>
       <td>
-        <img width="390" height="200" src="https://leetcard.jacoblin.cool/saivivek116?border=0&radius=20" alt="leetcode stats" />
+        <img width="390" height="200" src="https://leetcard.jacoblin.cool/vivbruce?border=0&radius=20" alt="leetcode stats" />
       </td>
     </tr>
   </table>

@@ -11,7 +11,6 @@
 - 👀 I'm interested in web technologies and cloud-native application development 
 - 🌱 I'm currently working with Reactjs, Java, Python and other web technologies.
 - 💞️ I'm looking to collaborate on your web development project.
-- 📫 How to reach me - you can reach me via LinkedIn if you have any further questions or want to collaborate on a web development project. I'm happy to help!
 
 ## 💻 Tech Stack:
 

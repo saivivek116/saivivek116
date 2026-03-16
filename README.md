@@ -8,9 +8,8 @@
   <h4 align="center">Full-Stack Developer</h4>
 </div>
 
-- 👀 I'm interested in web technologies and cloud-native application development 
-- 🌱 I'm currently working with Reactjs, Java, Python and other web technologies.
-- 💞️ I'm looking to collaborate on your web development project.
+- 🌱 I'm currently working with Reactjs, Typescript, Node.js, Express.js, Java, Python and other web technologies.
+- 💞️ I'm looking to collaborate on your innovative full stack projects.
 
 ## 💻 Tech Stack:
 
